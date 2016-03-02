@@ -1,0 +1,6 @@
+PASS
+BenchmarkGetXInderectStruct-4   	2000000000	         0.55 ns/op
+BenchmarkGetXerectStruct-4      	2000000000	         0.56 ns/op
+BenchmarkGetXInderectInterface-4	300000000	         4.84 ns/op
+BenchmarkGetXerectInterface-4   	1000000000	         2.85 ns/op
+ok  	github.com/willemneal/goExperiments	7.441s
